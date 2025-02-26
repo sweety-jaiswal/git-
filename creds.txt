@@ -1,0 +1,2 @@
+user.name= abc
+user.eamil= xyz
